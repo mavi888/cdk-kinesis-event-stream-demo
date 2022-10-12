@@ -40,7 +40,7 @@ cdk destroy
 
 ## Links related to this code
 
-- Video with more details:
+- [Video with more details](https://youtu.be/lwSBOCkHa6I)
 
 ### AWS CDK useful commands
 
